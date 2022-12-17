@@ -1,3 +1,6 @@
+![logo (1)](https://user-images.githubusercontent.com/33896722/208254316-c9ddf824-2dec-4b36-8a1a-3a11a8bc84a2.gif)
+
+
 # maltens_broedre_ai
 This repository contains a wide range of methods to determine profound information regarding the world renowned beer guild "Maltens Brødre." 
 
