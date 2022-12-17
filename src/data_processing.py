@@ -1,8 +1,7 @@
-from turtledemo.chaos import plot
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+
 
 def read_csv(filename):
     data_frame = pd.read_csv(filename, sep=';', encoding='unicode_escape', error_bad_lines=False)
